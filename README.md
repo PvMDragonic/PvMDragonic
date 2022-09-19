@@ -1,11 +1,4 @@
-# Ler esta mensagem é perda de XP.
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/joão-pedro-droval/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://pt.runescape.wiki/w/Usuário:PvM_Dragonic"><img src="https://img.shields.io/badge/RS Wiki PTBR-%23333?style=for-the-badge&logo=wikipedia&color=052b76&logoColor=white" target="_blank"></a>
-  <a href="mailto:dragonicpvm@gmail.com"><img src="https://img.shields.io/badge/-dragonicpvm@gmail.com-%23333?style=for-the-badge&logo=gmail&color=11ab3a&logoColor=white" target="_blank"></a>
-</div>
 
-## Poggers
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=200&height=30&lines=Game+Development" alt="Game Development"/>
